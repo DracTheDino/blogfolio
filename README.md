@@ -1,6 +1,6 @@
 # Siddharth's Blogfolio
 
-![Website demo](https://imgur.com/cGtBkvF)
+![Website demo](https://i.imgur.com/cGtBkvF.gif)
 
 ## Tools used
 
