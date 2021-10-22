@@ -19,6 +19,7 @@ function About() {
         <a
           href="https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=7e55cb3e583649eb"
           target="_blank"
+          rel="noreferrer"
           className="text-green-300 italic underline hover:bg-green-600 transition duration-500 transform"
         >
           My Spotify playlist.

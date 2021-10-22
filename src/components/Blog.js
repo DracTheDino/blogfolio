@@ -13,6 +13,7 @@ function Blog() {
         <a
           href="https://dracthedino.github.io/"
           target="_blank"
+          rel="noreferrer"
           className="text-green-300 italic underline hover:bg-green-600 transition duration-500 transform"
         >
           over here

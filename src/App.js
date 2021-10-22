@@ -25,7 +25,11 @@ function App() {
           <Link to="/blog">
             <NavButton buttonText="Blog" color="pink" />
           </Link>
-          <a href="https://github.com/DracTheDino/" target="_blank">
+          <a
+            href="https://github.com/DracTheDino/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <NavButton buttonText="GitHub" color="pink" />
           </a>
         </div>
