@@ -1,13 +1,13 @@
 import React from "react";
 
-function Contact() {
+function About() {
   return (
     <div>
       <h1 className="text-center text-1xl md:text-4xl pt-3 font-italic text-white">
-        Contact me
+        About Me
       </h1>
     </div>
   );
 }
 
-export default Contact;
+export default About;
