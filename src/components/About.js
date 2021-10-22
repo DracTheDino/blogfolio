@@ -3,15 +3,14 @@ import React from "react";
 function About() {
   return (
     <div className="text-center">
-      <h1 className="text-1xl md:text-4xl pt-3 font-semibold text-white">
+      <h1 className="text-3xl md:text-4xl pt-3 font-semibold text-white">
         About Me
       </h1>
       <p className="text-xl pt-5 text-white font-semibold px-16">
-        Hobbies: Programming, motorsports, 3D modelling, cars, tech, music and
-        TV 💻. Preferably all at once 🤔. <br />
+        Programming, motorsports, 3D modelling, cars, tech, music and TV 💻.
+        Preferably all at once 🤔. <br />
         <br />
         📖 High school student. <br />
-        <br />
         🌱 Currently in love with Blender. <br />
         📘 Currently making high poly realistic cars in Blender. <br />
         📔 Software of choice: VSCode/IntelliJ IDEA/Blender. <br />
