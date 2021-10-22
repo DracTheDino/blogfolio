@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Siddharth's Blogfolio
+
+![Website demo](https://imgur.com/cGtBkvF)
+
+## Tools used
+
+This project is made with ReactJS (bootstrapped with Create React App) and TailwindCSS.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

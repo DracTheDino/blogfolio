@@ -11,8 +11,8 @@ function About() {
         Preferably all at once 🤔. <br />
         <br />
         📖 High school student. <br />
-        🌱 Currently in love with Blender. <br />
-        📘 Currently making high poly realistic cars in Blender. <br />
+        🌱 In love with Blender and DiscordKt. <br />
+        📘 Currently working on this site. <br />
         📔 Software of choice: VSCode/IntelliJ IDEA/Blender. <br />
         🖥️ Operating system: Windows 11 (+ WSL2, sometimes). <br />
         🎵{" "}
