@@ -5,6 +5,7 @@ import NavButton from "./components/NavButton";
 import TransparentNavButton from "./components/TransparentNavButton";
 import About from "./components/About";
 import Blog from "./components/Blog";
+import Footer from "./components/Footer"
 
 function App() {
     return (
@@ -41,6 +42,7 @@ function App() {
                 </Switch>
                 <br></br>
             </div>
+            <Footer />
         </div>
     );
 }
