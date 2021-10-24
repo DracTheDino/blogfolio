@@ -6,7 +6,6 @@ import TransparentNavButton from "./components/TransparentNavButton";
 import About from "./components/About";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer"
-import Projects from "./components/Projects";
 
 function App() {
     return (
@@ -21,9 +20,6 @@ function App() {
                     className="pt-14 flex flex-wrap text-1xl md:text-2xl justify-center pl-16 pr-16 space-x-4 space-y-1 md:space-y-0 pb-14">
                     <Link to="/" strict>
                         <NavButton buttonText="About Me" color="pink"/>
-                    </Link>
-                    <Link to="/projects" strict>
-                        <NavButton buttonText="Projects" color="pink"/>
                     </Link>
                     <Link to="/contact">
                         <NavButton buttonText="Contact" color="pink"/>
@@ -42,7 +38,6 @@ function App() {
                 <Switch>
                     <Route path="/contact" component={Contact} strict/>
                     <Route path="/blog" component={Blog} strict/>
-                    <Route path="/projects" component={Projects} strict />
                     <Route path="/" component={About} strict/>
                 </Switch>
                 <br />
