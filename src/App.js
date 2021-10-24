@@ -9,7 +9,7 @@ import Footer from "./components/Footer"
 
 function App() {
     return (
-        <div>
+        <div className="select-none">
             <div className="md:h-screen bg-gradient-to-tl from-indigo-400 via-indigo-500 to-indigo-600">
                 <h1 className="text-center text-3xl md:text-4xl pt-20 font-italic text-white">
                     <Link to="/">
@@ -40,7 +40,7 @@ function App() {
                     <Route path="/blog" component={Blog} strict/>
                     <Route path="/" component={About} strict/>
                 </Switch>
-                <br></br>
+                <br />
             </div>
             <Footer />
         </div>
