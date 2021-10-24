@@ -10,7 +10,7 @@ import Projects from "./components/Projects";
 
 function App() {
     return (
-        <div>
+        <div className="select-none">
             <div className="md:h-screen bg-gradient-to-tl from-indigo-400 via-indigo-500 to-indigo-600">
                 <h1 className="text-center text-3xl md:text-4xl pt-20 font-italic text-white">
                     <Link to="/">
