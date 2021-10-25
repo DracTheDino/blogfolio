@@ -24,9 +24,13 @@ function App() {
                     <Link to="/contact">
                         <NavButton buttonText="Contact" color="pink"/>
                     </Link>
-                    <Link to="/blog">
+                    <a
+                        href="http://blog.siddharth.tripathy.me/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         <NavButton buttonText="Blog" color="pink"/>
-                    </Link>
+                    </a>
                     <a
                         href="https://github.com/DracTheDino/"
                         target="_blank"
